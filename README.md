@@ -15,7 +15,7 @@ production-style applications.
 
 ## Featured Work
 
-- **[Frontend Projects](https://github.com/Al-Farhan-Seg/roadmap.sh-Projects)**  
+- **[Frontend Projects](https://github.com/Al-Farhan-Seg/roadmap.sh-builds)**  
   Practical frontend projects covering responsive design, JavaScript,
   DOM manipulation, and modern UI development.
 
