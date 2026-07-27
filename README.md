@@ -34,5 +34,4 @@ application architecture.
 ## Connect
 
 [Portfolio](https://farhansegujja.com) ·
-[LinkedIn](YOUR_LINKEDIN_URL) ·
-[Email](mailto:YOUR_EMAIL_ADDRESS)
+[Email](mailto:farhan.segujja@gmail.com)
